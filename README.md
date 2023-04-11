@@ -1,7 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-## Coding Exhibits:
--  https://dbmanthy.github.io/Thread-Simulation-Micro/ThreadSimulationBuild/
+### Coding Exhibits 
+Fun interactable mini projects!
+- Thread Simulation: https://dbmanthy.github.io/Thread-Simulation-Micro/ThreadSimulationBuild/
 
 <!--
 **dbmanthy/dbmanthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
