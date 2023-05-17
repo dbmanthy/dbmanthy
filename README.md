@@ -3,6 +3,7 @@
 ### Coding Exhibits 
 Fun interactable mini projects!
 - Thread Simulation: https://dbmanthy.github.io/Thread-Simulation-Micro/ThreadSimulationBuild/
+- Boids: https://dbmanthy.github.io/Boids/
 
 <!--
 **dbmanthy/dbmanthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
