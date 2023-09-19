@@ -1,16 +1,18 @@
 <!-- text scroll -->
 
-# Hi there 👋, my name is Desmond Blue Manthy <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&size=20&weight=900&duration=4450&pause=500&center=false&vCenter=true&width=800&height=20&repeat=false&lines=I+am+an+applied+mathematician+and+computer+scientist;I+am+a+self-taught+game+developer;I+love+to+learn+new+thing..<3" alt="Typing SVG"/></a>
-
+# Desmond Blue Manthy <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&size=20&weight=900&duration=4450&pause=710&center=false&vCenter=true&width=800&height=20&repeat=false&lines=I+am+an+applied+mathematician+and+computer+scientist;I+am+a+self-taught+game+developer;I+love+curious+coding..<3" alt="Typing SVG"/></a>
 
 ## Coding Playground
-Not everything here is polished, but it's a lot of experimentation and fun!
+*Experimental projects to explore new concepts and skills. Not everything here is polished but they're a lot of fun!*
 
-- Thread Simulation: https://dbmanthy.github.io/Thread-Simulation-Micro/ThreadSimulationBuild/
-- Boids: https://dbmanthy.github.io/Boids/
+
+| Boid Behavioral Model | Rope & Cloth Physics Simulation |
+| --- | --- |
+| A | B |
+|[Playable Demo](https://dbmanthy.github.io/Boids/) <br> Followed Craig W. Reynolds's paper, _Flocks, Herds, and Schools_, to simulate animal flocking behavior in Unity | [Playable Demo](https://dbmanthy.github.io/Thread-Simulation-Micro/ThreadSimulationBuild/)<br>A dynamic 2D model of rope and cloth physics using varlet integration in Unity |
 
 ## Project Showcase
-Completed projects with dotted i's and crossed t's.
+*Completed projects with dotted i's and crossed t's.*
 
 <!--- snake -->
 <!---
