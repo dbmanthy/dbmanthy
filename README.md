@@ -17,7 +17,7 @@
 
 | Emoji Translator [**`Full Report & Code`**](./media/Emoji_Translator_Final_Report.pdf?raw=true) |
 | :--- |
-| ![boids pic text](./media/eigenFaces.png?raw=true) |
+| ![boids pic text](./media/eigenFaces.png?raw=true)<br>Eigenfaces: the above images show the eigenfaces created from Apple and Facebook libraries to span our emoji emotion space as a basis. |
 |In a world with many non-related software companies and data libraries, conversion algorithms are vital for cross-platform communication. In this project, a basic facial recognition program was created capable of discerning between ten different emoji faces. This program was implemented using an approach based off Muller, Magaia, and Herbst’s paper[2] on facial recognition. Through the use of training sets generated from Facebook and Apple’s emoji libraries, facial averages of eigenfaces were created using the method of SVD factorization. A new unknown set of emoji faces were then compared against these averages and thus matched into their intended emoji expression (Smiley face, laughing face, etc.) by a least squares fit. Through multiple trials, our program was found to have a seventy percent success rate in sorting these unknown emojis, from Google’s library, into their proper categories.|
 
 <!--- snake -->
