@@ -22,7 +22,7 @@
 
 | Radial Basis Functions A4<br>[**`FULL REPORT MATH & CODE`**](./media/Radial_Basis_Functions.pdf) | Radial Basis Functions A1<br>[**`CODE`**](./media/FD4.m)|
 | :--- | :--- |
-| [![rbf a4 pic text](./media/Radial_Basis_Functions_img.png?raw=true)](./media/Radial_Basis_Functions.pdf) | [<img src=./media/FD4_a1.png width="600px" height="600px">](./media/FD4.m) |
+| [![rbf a4 pic text](./media/Radial_Basis_Functions_img.png?raw=true)](./media/Radial_Basis_Functions.pdf) | [<img src=./media/FD4_a1.png width="600px" height="500px">](./media/FD4.m) |
 | ||
 
 
