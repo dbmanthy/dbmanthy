@@ -20,9 +20,15 @@
 | [![emoji pic text](./media/Emoji_Translator_Final_Report_img.png?raw=true)](./media/Emoji_Translator_Final_Report.pdf) | [![wave prop pic text](./media/Wave_Propagation_Fourier_img.png?raw=true)](./media/Wave_Propagation_Fourier.pdf) |
 |In a world with many non-related software companies and data libraries, conversion algorithms are vital for cross-platform communication. In this project, a basic facial recognition program was created capable of discerning between ten different emoji faces. This program was implemented using an approach based on Muller, Magaia, and Herbst’s paper[2] on facial recognition. Through the use of training sets generated from Facebook and Apple’s emoji libraries, facial averages of eigenfaces were created using the method of SVD factorization. A new unknown set of emoji faces were then compared against these averages and thus matched into their intended emoji expression (Smiley face, laughing face, etc.) by a least squares fit. Through multiple trials, our program was found to have a seventy percent success rate in sorting these unknown emojis, from Google’s library, into their proper categories.| This project is an introductory investigation of water waves and dispersive relations. There were two contrasting experiments conducted in order to show the important mechanics of water waves in different settings and circumstances. First, a physical experiment was conducted by dropping marbles into a bucket of water and observing the resulting waves. From this, we were able to predict a surface tension value of around .01 N/m and create two accurate functions for phase and group velocity of the system. In the second experiment, we gathered data taken from a paper where ocean waves were measured as they propagated past four different locations in the Pacific. This allowed us to discover the differences between two different dispersion relation models. It was also a thorough way to outline the accuracy and importance of using the theoretical dispersion relation to predict water wave outcomes like "time of arrival".|
 
-| Radial Basis Functions<br>[**`FULL REPORT MATH & CODE`**](./media/Radial_Basis_Functions.pdf) | Radial Basis Functions & Neural Networks<br>[**`FULL PRESENTATION`**](./media/Radial_Basis_Functions_and_Neural_Networks.pdf)|
+| Radial Basis Functions A4<br>[**`FULL REPORT MATH & CODE`**](./media/Radial_Basis_Functions.pdf) | Radial Basis Functions A1<br>[**`CODE`**](./media/FD4.m)|
 | :--- | :--- |
-| [![rbf pic text](./media/Radial_Basis_Functions_img.png?raw=true)](./media/Radial_Basis_Functions.pdf) | [![rbf & nn pic text](./media/Radial_Basis_Functions_and_Neural_Networks_img.png?raw=true)](./media/Radial_Basis_Functions_and_Neural_Networks.pdf) |
+| [![rbf a4 pic text](./media/Radial_Basis_Functions_img.png?raw=true)](./media/Radial_Basis_Functions.pdf) | [<img src=./media/FD4_a1.png width="600px" height="650px">](./media/FD4.m) |
+| ||
+
+
+| Padé Approximations<br>[**`FULL PRESENTATION`**](./media/Padé_Approximations.pdf) | Radial Basis Functions & Neural Networks<br>[**`FULL PRESENTATION`**](./media/Radial_Basis_Functions_and_Neural_Networks.pdf)|
+| :--- | :--- |
+| [![rbf pic text](./media/Padé_Approximations_img.png?raw=true)](./media/Padé_Approximations.pdf) | [![rbf & nn pic text](./media/Radial_Basis_Functions_and_Neural_Networks_img.png?raw=true)](./media/Radial_Basis_Functions_and_Neural_Networks.pdf) |
 | | |
 
 <!--- snake -->
