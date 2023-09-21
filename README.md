@@ -15,19 +15,7 @@
 | Practice w/ Behavior Trees & State Machines<br>[**`REPO`**](https://github.com/dbmanthy/ugv0) | A* Path Finding in 3D <br>[**`REPO`**](https://github.com/dbmanthy/MyPrey)|
 | :--- | :--- |
 | <video src="https://github.com/dbmanthy/dbmanthy/assets/57188665/c097ce43-16a5-4dbe-993a-85916adda7bc" height="350px"></video> | <video src="https://github.com/dbmanthy/dbmanthy/assets/57188665/c922f530-9573-40d1-9276-c3b31eea3cd6" height="350px" loop></video> |
-|<br><br>[**`REPO`**](https://github.com/dbmanthy/ugv0) | <br><br>[**`REPO`**](https://github.com/dbmanthy/MyPrey)|
-
-
-
-
-
-
-
-
-
-
-
-
+|Played around with different implementations of state machines and behavior trees for a flight controller in an auto-building world.<br><br>[**`REPO`**](https://github.com/dbmanthy/ugv0) | Implemented A* pathfinding algorithm in 3D.<br><br>[**`REPO`**](https://github.com/dbmanthy/MyPrey)|
 
 
 ## Project Showcase
@@ -48,7 +36,7 @@
 | Padé Approximations<br>[**`FULL PRESENTATION`**](./media/Padé_Approximations.pdf) | Radial Basis Functions & Neural Networks<br>[**`FULL PRESENTATION`**](./media/Radial_Basis_Functions_and_Neural_Networks.pdf)|
 | :--- | :--- |
 | [![rbf pic text](./media/Padé_Approximations_img.png?raw=true)](./media/Padé_Approximations.pdf) | [![rbf & nn pic text](./media/Radial_Basis_Functions_and_Neural_Networks_img.png?raw=true)](./media/Radial_Basis_Functions_and_Neural_Networks.pdf) |
-| | |
+
 
 <!--- snake -->
 <!---
@@ -57,6 +45,7 @@
        alt="snake" /></a>
 </div>
 -->
+
 
 <!--
 **dbmanthy/dbmanthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
