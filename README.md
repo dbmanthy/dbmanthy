@@ -10,7 +10,7 @@
 | :--- | :--- |
 | [<img src =./media/boids.png height="350px">](https://dbmanthy.github.io/Boids/) | [<img src =./media/cloth_sim.png height="350px">](https://dbmanthy.github.io/Thread-Simulation-Micro/ThreadSimulationBuild/) |
 |Followed Craig W. Reynolds's paper, _Flocks, Herds, and Schools_, to simulate animal flocking behavior in Unity<br><br>[**`REPO`**](https://github.com/dbmanthy/Boids) |A dynamic 2D rope and cloth physics model using varlet integration in Unity<br><br>[**`REPO`**](https://github.com/dbmanthy/Thread-Simulation-Micro)|
-
+<!-- | [![emoji pic text](./media/boids.png?raw=true)](https://dbmanthy.github.io/Boids/) | [![emoji pic text](./media/cloth_sim.png?raw=true)](https://dbmanthy.github.io/Thread-Simulation-Micro/ThreadSimulationBuild/) | -->
 
 ## Project Showcase
 *Completed projects with dotted i's and crossed t's.*
