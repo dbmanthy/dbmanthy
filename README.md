@@ -6,16 +6,16 @@
 *Experimental projects to explore new concepts and skills. Not everything here is polished but they're a lot of fun!*
 
 
-| Boid Behavioral Model<br>[**`PLAYABLE DEMO`**](https://dbmanthy.github.io/Boids/) | Rope & Cloth Physics Simulation<br>[**`PLAYABLE DEMO`**](https://dbmanthy.github.io/Thread-Simulation-Micro/ThreadSimulationBuild/) |
+| Boid Behavioral Model<br>[**`PLAYABLE DEMO`**](https://dbmanthy.github.io/Boids/)<br>[**`REPO`**](https://github.com/dbmanthy/Boids) | Rope & Cloth Physics Simulation<br>[**`PLAYABLE DEMO`**](https://dbmanthy.github.io/Thread-Simulation-Micro/ThreadSimulationBuild/)<br>[**`REPO`**](https://github.com/dbmanthy/Thread-Simulation-Micro) |
 | :--- | :--- |
 | [<img src =./media/boids.png height="350px">](https://dbmanthy.github.io/Boids/) | [<img src =./media/cloth_sim.png height="350px">](https://dbmanthy.github.io/Thread-Simulation-Micro/ThreadSimulationBuild/) |
-|Followed Craig W. Reynolds's paper, _Flocks, Herds, and Schools_, to simulate animal flocking behavior in Unity<br><br>[**`REPO`**](https://github.com/dbmanthy/Boids) |A dynamic 2D rope and cloth physics model using varlet integration in Unity<br><br>[**`REPO`**](https://github.com/dbmanthy/Thread-Simulation-Micro)|
+|Followed Craig W. Reynolds's paper, _Flocks, Herds, and Schools_, to simulate animal flocking behavior in Unity | A dynamic 2D rope and cloth physics model using varlet integration in Unity|
 
 
 | Practice w/ Behavior Trees & State Machines<br>[**`REPO`**](https://github.com/dbmanthy/ugv0) | A* Path Finding in 3D <br>[**`REPO`**](https://github.com/dbmanthy/MyPrey)|
 | :--- | :--- |
 | <video src="https://github.com/dbmanthy/dbmanthy/assets/57188665/c097ce43-16a5-4dbe-993a-85916adda7bc" height="350px"></video> | <video src="https://github.com/dbmanthy/dbmanthy/assets/57188665/c922f530-9573-40d1-9276-c3b31eea3cd6" height="350px" loop></video> |
-|Played around with different implementations of state machines and behavior trees for a flight controller in an auto-building world.<br><br>[**`REPO`**](https://github.com/dbmanthy/ugv0) | Implemented A* pathfinding algorithm in 3D.<br><br>[**`REPO`**](https://github.com/dbmanthy/MyPrey)|
+|Played around with different implementations of state machines and behavior trees for a flight controller in an auto-building world | Implemented A* pathfinding algorithm in 3D|
 
 
 ## Project Showcase
