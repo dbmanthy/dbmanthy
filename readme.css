@@ -1,6 +1,7 @@
 <style>
   .multi-page-image {
     animation: switch-image 10s infinite;
+    border: 1px solid black;
   }
   @keyframes switch-image {
     0% {
