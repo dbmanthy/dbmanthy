@@ -1,0 +1,15 @@
+<style>
+  .multi-page-image {
+    width: 175px
+    animation: switch-image 10s infinite;
+    border: 1px solid black;
+  }
+  @keyframes switch-image {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
