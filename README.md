@@ -8,7 +8,7 @@
 
 | Speed<br>[**`PLAYABLE DEMO`**](https://dbmanthy.itch.io/speed)<br>[**`REPO`**](https://github.com/dbmanthy/Speed) | 
 | :--- |
-| [<img src =./media/speed_img.png height="350px">](https://dbmanthy.github.io/Speed/) |
+| [<img src =./media/speed_img.png height="350px">](https://dbmanthy.github.io/speed/) |
 | A quick and dirty project to learn Godot and gdScript |
 
 
