@@ -6,6 +6,11 @@
 ## Coding Playground
 *Experimental projects to explore new concepts and skills. Not everything here is polished but they're a lot of fun!*
 
+| Speed<br>[**`PLAYABLE DEMO`**](https://bugs.chromium.org/p/chromium/issues/detail?id=1324296#c6)<br>[**`REPO`**](https://github.com/dbmanthy/Speed) | 
+| :--- |
+| [<img src =./media/speed_img.png height="350px">](https://dbmanthy.github.io/Speed/) |
+| A quick and dirty project to learn Godot and gdScript |
+
 
 | Boid Behavioral Model<br>[**`PLAYABLE DEMO`**](https://dbmanthy.github.io/Boids/)<br>[**`REPO`**](https://github.com/dbmanthy/Boids) | Rope & Cloth Physics Simulation<br>[**`PLAYABLE DEMO`**](https://dbmanthy.github.io/Thread-Simulation-Micro/ThreadSimulationBuild/)<br>[**`REPO`**](https://github.com/dbmanthy/Thread-Simulation-Micro) |
 | :--- | :--- |
