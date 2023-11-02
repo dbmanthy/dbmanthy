@@ -25,6 +25,7 @@
 
 
 ## Project Showcase
+*Projects with dotted I's and crossed T's*
 <!-- ![](./readme.svg) -->
 
 | Emoji Translator<br>[**`FULL REPORT MATH & CODE`**](./media/Emoji_Translator_Final_Report.pdf) | Wave Propagation Fourier<br>[**`FULL REPORT & MATH`**](./media/Wave_Propagation_Fourier.pdf)|
