@@ -1,7 +1,7 @@
 <!-- text scroll -->
 <link rel="stylesheet" href"./readme.css">
 
-# Desmond Blue Manthy <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&size=20&weight=900&duration=4450&pause=710&center=false&vCenter=true&width=800&height=20&repeat=false&lines=Applied+mathematician+and+computer+scientist;Indie+game+developer;Curious+coder" alt="Typing SVG"/></a>
+# Desmond Blue Manthy <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&size=20&weight=900&duration=4450&pause=710&center=false&vCenter=true&width=800&height=20&repeat=false&lines=Curious+coder;Indie+game+developer;Applied+mathematician+and+computer+scientist" alt="Typing SVG"/></a>
 
 ## Coding Playground
 *Experimental projects to explore new concepts and skills. Not everything here is polished but they're a lot of fun!*
